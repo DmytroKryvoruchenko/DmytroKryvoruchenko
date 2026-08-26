@@ -16,4 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmytrokryvoruchenko&show_icons=true&locale=en" alt="dmytrokryvoruchenko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmytrokryvoruchenko&" alt="dmytrokryvoruchenko" /></p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmytroKryvoruchenko&show_icons=true&locale=en)](https://github.com/DmytroKryvoruchenko)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DmytroKryvoruchenko)](https://github.com/DmytroKryvoruchenko)
